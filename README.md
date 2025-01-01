@@ -40,11 +40,6 @@ This React Native application helps users discover and share accessible tourist 
 - Add new locations by filling out the form.
 - View detailed information about each spot.
 
-## Screenshots
-![Home Screen](screenshots/home.png)
-![Add Spot Screen](screenshots/add_spot.png)
-![Details Screen](screenshots/details.png)
-
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
 
