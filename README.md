@@ -42,6 +42,3 @@ This React Native application helps users discover and share accessible tourist 
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
